@@ -1,0 +1,20 @@
+.logout:hover{
+    transform: scale(1.1);
+    transition: transform 0.2s ease-in-out;
+
+}
+
+.navbar-brand:hover{
+    
+    animation: bigger 0.4s;
+    animation-iteration-count: infinite;
+}
+.nav-item:hover{
+    transform: translateY(-1px);
+}
+
+@keyframes bigger {
+    0% { transform:  scale(1.1); }
+    50% { transform:  scale(1); }
+    100% { transform:  scale(1.1); }
+  }
