@@ -4,7 +4,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faGithub } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-router-dom";
 import navbar from "./navbar.css";
-import PersonalPage from "../PersonalPage";
 
 const NavBar = ({ handleLogout }) => {
   return (
@@ -18,7 +17,7 @@ const NavBar = ({ handleLogout }) => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0"style={{marginLeft:"30px"}}>
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="/personal" style={{fontSize: "20px", fontWeight: "bold"}}>
+              <a className="nav-link active" aria-current="page" href="https://github.com/vaveylaa/Firebase-React-ToDoApp" target="_blank" style={{fontSize: "20px", fontWeight: "bold"}}>
                 Detail
               </a>
             </li>

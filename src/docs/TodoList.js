@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import TodoItem from '../TodoItem';
   
 import {
   Container,
