@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firereact/static/css/main.71cc4bc2.css",
+    "main.js": "/firereact/static/js/main.bc7768e9.js",
+    "static/js/787.5534a369.chunk.js": "/firereact/static/js/787.5534a369.chunk.js",
+    "index.html": "/firereact/index.html",
+    "main.71cc4bc2.css.map": "/firereact/static/css/main.71cc4bc2.css.map",
+    "main.bc7768e9.js.map": "/firereact/static/js/main.bc7768e9.js.map",
+    "787.5534a369.chunk.js.map": "/firereact/static/js/787.5534a369.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71cc4bc2.css",
+    "static/js/main.bc7768e9.js"
+  ]
+}
